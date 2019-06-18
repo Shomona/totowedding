@@ -1,19 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ba1589cf9384063c86626bd455bf0aa4",
+    "revision": "1a03e14068d9a21aac2635538a2cda21",
     "url": "/totowedding/index.html"
   },
   {
-    "revision": "fb3f74d9782cee427896",
+    "revision": "06e5dc23e1b1e3baaa7b",
+    "url": "/totowedding/static/css/2.22a7d4ef.chunk.css"
+  },
+  {
+    "revision": "b504dee57f4eda7be61d",
     "url": "/totowedding/static/css/main.2cce8147.chunk.css"
   },
   {
-    "revision": "2e0129063922e3bb197a",
-    "url": "/totowedding/static/js/2.b41502e9.chunk.js"
+    "revision": "06e5dc23e1b1e3baaa7b",
+    "url": "/totowedding/static/js/2.4e40d468.chunk.js"
   },
   {
-    "revision": "fb3f74d9782cee427896",
-    "url": "/totowedding/static/js/main.f4f8d529.chunk.js"
+    "revision": "b504dee57f4eda7be61d",
+    "url": "/totowedding/static/js/main.1fbf0b9e.chunk.js"
   },
   {
     "revision": "d9d4a8a54c8968161eb1",
